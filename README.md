@@ -1,2 +1,5 @@
 # Hakkinko_algorithm
-数据结构相关算法等
+
+I'll summarize the basic algorithm here.
+
+Now there's only Internal sorting 
